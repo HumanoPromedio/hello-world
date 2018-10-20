@@ -1,2 +1,2 @@
 # hello-world
-I guess this is the bigging
+I guess this is the beginning
